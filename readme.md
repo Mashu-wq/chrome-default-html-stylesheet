@@ -1,3 +1,3 @@
-##To install normalize.css
+To install normalize.css
 
 npm install --save normalize.css
